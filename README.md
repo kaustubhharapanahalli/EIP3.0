@@ -1,6 +1,6 @@
 # External Internship Program 
 ---
-![EIP3.0](Images\MLBLR.jpg)
+![EIP3.0](Images/LBLR.jpg)
 
 This repository contains code of the assignments given at the External Internship Program which is conducted by Inkers.ai 
 The program includes multiple phases. Currently, the repository contains the code of the assignments given in 1st Phase. The first three assignments focused on using the Optical Charater Recognition dataset from MNIST. 
